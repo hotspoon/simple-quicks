@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "sender": "Cameron Phillips",
+    "subject": "109220-Naturalization",
+    "date": "2022-01-01",
+    "preview": "This is a reminder for our meeting tomorrow...",
+    "isRead": false
+  },
+  {
+    "id": 2,
+    "sender": "Ellen",
+    "subject": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+    "date": "2022-01-01",
+    "preview": "Wishing you a happy new year Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium, impedit?",
+    "isRead": true
+  },
+  {
+    "id": 3,
+    "sender": "Mary Hilda",
+    "subject": "Hello Obaidullah, I will be your case advisor for case #029290.",
+    "date": "2022-01-01",
+    "preview": "This is a reminder for our meeting tomorrow...",
+    "isRead": true
+  }
+]
